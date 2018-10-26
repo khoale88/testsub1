@@ -4,4 +4,4 @@ def pprint():
 
 def hey():
     print('hey1')
-    retunr 'hey1'
+    return 'hey1'
